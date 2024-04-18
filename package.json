@@ -1,0 +1,23 @@
+{
+  "name": "sualeha_88_khan-marksheet1",
+  "version": "5.5.7",
+  "description": "Marksheet by using inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "prac1.js",
+    
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.4"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.17"
+  }
+}
